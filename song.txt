@@ -8,3 +8,5 @@ Third part turned out to exist
 feature thing
 
 feautre thing 2
+
+this is main thing done from git vi HELLO HELLO!!
